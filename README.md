@@ -59,5 +59,3 @@ python circle_collision_sim.py
 - Track kinetic energy and display it.
 - Make collision sounds using Pygame's mixer.
 - Include sliders for adjusting gravity, elasticity, or speed live.
-
-Let me know if you’d like help expanding this into a more complex particle simulator!
